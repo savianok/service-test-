@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"types": ["node", "dotenv"],
+		"moduleResolution": "Node",
+		"target": "ES2019",
+		"module": "commonjs",
+		"declaration": true,
+		"outDir": "./built", //"./dist",  //"./built",
+		"esModuleInterop": true,
+		"strict": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true
+		//"noImplicitAny": true,
+		//"strictNullChecks": true,
+		//"resolveJsonModule": true,
+		//"allowSyntheticDefaultImports": true,
+		//"noUnusedLocals": false,
+		//"noUnusedParameters": false,
+		//"allowJs": false
+	}
+}
